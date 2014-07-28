@@ -1,3 +1,7 @@
+
+#Hey Sharon, I made edits to your program. let me know if you like them! 
+
+
 def play_game()
 	
 	choices = ["rock", "paper", "scissors"]
